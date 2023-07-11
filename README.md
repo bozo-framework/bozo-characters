@@ -1,3 +1,6 @@
+
+![SugarTank (4)](https://github.com/bozo-framework/bozo-characters/assets/112611821/27464e75-ac93-43df-b374-af1ab281586f)
+
 # bozo-characters
 
 bozo-characters is a module for the BozoFramework that provides character management features for players. It enables players to create, edit, delete, and switch between multiple characters within the game. Additionally, it offers customization options for the player's character ped.
