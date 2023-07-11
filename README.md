@@ -1,2 +1,7 @@
-# bozo_characters
-Characters for Bozo-Framework
+## Features:
+* Character Selection
+* Create Characters
+* Edit Characters
+* Delete Characters
+* Switch Character
+* Customize Ped
